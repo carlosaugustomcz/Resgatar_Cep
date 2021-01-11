@@ -37,6 +37,7 @@ GEt Retorna Endereço:
 http://localhost:3333/endereco?uf=al&cidade=maceio&logradouro=monte castelo
 
 PARAMS
+
 uf: AL
 
 cidade: Maceio
