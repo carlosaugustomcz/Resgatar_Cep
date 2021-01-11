@@ -6,8 +6,8 @@ Criação de uma Api para resgatar o CEP.
 # Tecnologias :
 
 *	Node 12.16.3.
+* axios: 0.21.1
 *	Express 4.17.1
-*	Eslint 7.16.0
 *	Nodemon 2.0.6
 *	Sucrase 3.16.0
 * yarn
